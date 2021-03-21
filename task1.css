@@ -1,0 +1,148 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(./img/place.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 180%
+}
+#menu-container{
+	width: 100%;
+	margin: 0 auto;
+	height: 60px;
+	background-color: #F4F4F4;
+}
+.cont{
+	width: 1080px;
+	margin: 0 auto;
+}
+#menu-item{
+	float: left;
+}
+#phone {
+	margin-left: 3px;
+	position: relative;
+	top: 20px;
+	width: 18px;
+	
+}
+#number{
+	position: relative;
+	top: 17px;
+	font-size: 15px;
+}
+#message{
+	position: relative;
+	top: 21px;
+	margin-left: 20px;
+	width: 22px;
+}
+#info{
+	position: relative;
+	top: 16px;
+	left: 0px;
+	font-size: 14px;
+}
+#side-links{
+}
+#links{
+	width: 20px;
+	float: right;
+	position: relative;
+	top: 18px;
+	margin-left: 10px;
+}
+.clear{
+	clear: both;
+}
+#menu-bar-container{
+	width: 100%;
+	margin: 0 auto;
+	background-color: #ff3f4a;
+	
+}
+#menu-bar{
+	width: 1080px;
+	margin: 0 auto;
+	height: 100px;
+}
+#gleblu{
+	color: white;
+	float: left;
+	font-size: 45px;
+	font-family: serif;
+}
+#ome{
+	position: relative;
+	top: 40px;
+}
+#home{
+	background-color: #A30808;
+	width: 80px;
+	height: 100px;
+	text-align: center;
+	position: relative;
+	left: 350px;
+	top: -10px;
+}
+.links{
+	position: relative;
+	top: 30px;
+	left: 350px;
+	margin: 10px 15px;
+	float: left;
+	font-size: 12px;
+}	
+.links a{
+	text-decoration: none;
+	color: white;
+}
+.links a:hover{
+	text-decoration: underline;
+}
+#nulla{
+	text-align: center;
+	font-family: serif;
+	font-size:50px;
+	color: white;
+	position: relative;
+	top: 160px;
+	margin-bottom: 0px;
+	font-weight: bold;
+}
+#sed{
+	color: white;
+	text-align: center;
+	position: relative;
+	top: 170px;
+	margin-top: 0px;
+	font-weight: bold;
+
+}
+#dictum{
+	width: 150px;
+	background-color: #ff3f4a;
+	color: white; 
+	float: left;
+	text-align: center;
+	padding: 10px 0px 0px 5px;
+	position: relative;
+	top: 200px;
+	margin-left: 500px;
+	font-weight: bold;
+	height: 30px;
+}
+#nunc{
+	width: 150px;
+	border: 2px solid white;
+	color: white;
+	float: left;
+	padding: 10px 0px 0px 5px;
+	position: relative;
+	top: 200px;
+	margin-left: 20px;
+	font-weight: bold;
+	height: 28px;
+
+}
+
